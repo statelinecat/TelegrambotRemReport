@@ -6,7 +6,7 @@ import threading
 import random
 
 
-bot = telebot.TeleBot('BotID')
+bot = telebot.TeleBot('7451382010:AAEOAqPRv-8TW9zmhzImAmgC8uyMImC7VbU')
 
 @bot.message_handler(commands=['start'])
 
